@@ -13,11 +13,12 @@
 			>
 				<h1 class="text-5xl font-bold">Elymus</h1>
 				<p class="py-6">
-					It's time to stop total censorship that is tend to happen in nowadays
-					internet. Elymus places data availability above all. Censoring Elymus
-					sites is as complex as get rid of wildgrass in your garden: Even if
-					single one seed of grass left, it will grow again. Same for Elymus:
-					Even if one way to load website is available, site will work.
+					While we are living in the year 2022, your content on the internet can be censored!
+					Your voice can be blocked, even be removed completely! This is why Elymus is created. 
+					Elymus places data availability above all. Censoring Elymus sites is as complex as 
+					getting rid of wildgrass in your garden: even if a single seed of grass is left, it 
+					will grow and spawn new grass. Same goes for Elymus: If there's a single way to load 
+					the website, the site will be loaded and cached, growing it's availability.
 				</p>
 				<a
 					class="btn btn-primary"
