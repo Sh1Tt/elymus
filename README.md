@@ -16,7 +16,7 @@ Elymus is driven by decentralization-first convenience-last ideology. We have al
 You can download Elymus on [releases page](https://github.com/angrymouse/elymus/releases/)
 
 TBD:
-- Add support for anchoring networks
+- Add support for anchoring networks (Arweave already integrated)
 - Add builtin wallet SDK and builtin lite node for chain with smart contract support that has well support of lite nodes (Considering [Ergo](https://ergoplatform.org/en), but may be other chain)
 - Improve UI
 - Implement max cached sites in IPFS
