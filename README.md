@@ -1,4 +1,7 @@
-# Elymus: Platform & Stack for true decentralized apps
+# Elymus: Platform & Stack for *truly* decentralized apps
+And I mean *truly* in that way in which no other dApp will say it to you. Current dApps accept "some degree of centralization", like using public RPC endpoints or using Pinata to pin files on IPFS and eth.limo (or some other gateway) to access content addressing system.
+
+In Elymus it went crazy, we are first adopters of "decentralization as fetish" ideology. If something is even somehow centralized, we refuse to use it in Elymus. 
 
 ![icon](icon.png)
 
